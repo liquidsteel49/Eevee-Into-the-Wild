@@ -1,4 +1,4 @@
-# Eevee-Into-the-Wild
+# eevee-into-the-wild
 Host site for Eevee fan comic illustrated and written by Michelle Savoie.
 
 I hope this brings you happiness and joy. - Alfred
